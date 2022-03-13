@@ -19,15 +19,15 @@ Cisco Networking Academy
 https://www.netacad.com/portal/learning
 ![Cisco Networking Academy](https://drive.google.com/uc?export=download&id=1plUzdNbouiq8Ha1tNKYBYIsKNj8CLqrk)
 
-## 課表(每月更新1次)
+## 課表(每月更新 1 次)
 
 0900-1200 休息 1330-1630
 
-- 網頁設計(Web Design) *6
-- Bootstrap *6
-- CSS *10
+- 網頁設計(Web Design) \*6
+- Bootstrap \*6
+- CSS \*10
 - 網站視覺(Website Visual Design)
-- JavaScript *12
+- JavaScript \*12
 
 ## 常見問題 QA
 
@@ -56,5 +56,20 @@ https://medium.com/@dpes5407/python-%E5%85%88%E4%BF%AE%E7%8F%AD-%E9%A1%8C%E7%9B%
 可以帶自己的筆電去嗎?
     可以
 
+Webex私訊老師為什麼沒回?
+    小幫手名稱有兩個不要搞錯(共同主持人，主持人)，要私分享畫面的那位
+
+專題人數?
+    小專題人數:1人
+    大專題很多人看那時候人數多少，估計4人以上
+
+大專發表多久?
+    一組約 15-20 分
+
+為什麼課表不能一起給? 
+    不能保證學員會請假
+
 ```
 
+小專發表：https://www.youtube.com/playlist?list=PLb-1bRwwEmjr1nJFQoI-cvolXQWnu5_i7
+大專發表：https://www.youtube.com/playlist?list=PLb-1bRwwEmjpyC9H0MGSzPs2l03Vw2TLJ
