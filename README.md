@@ -19,6 +19,16 @@ Cisco Networking Academy
 https://www.netacad.com/portal/learning
 ![Cisco Networking Academy](https://drive.google.com/uc?export=download&id=1plUzdNbouiq8Ha1tNKYBYIsKNj8CLqrk)
 
+## 課表(每月更新1次)
+
+0900-1200 休息 1330-1630
+
+- 網頁設計(Web Design) *6
+- Bootstrap *6
+- CSS *10
+- 網站視覺(Website Visual Design)
+- JavaScript *12
+
 ## 常見問題 QA
 
 ### 課前
@@ -32,7 +42,7 @@ Python考試很難嗎?
 
 ```
 
-    [參考](https://medium.com/@dpes5407/python-%E5%85%88%E4%BF%AE%E7%8F%AD-%E9%A1%8C%E7%9B%AE-50%E9%A1%8C-42b4ea770057)
+https://medium.com/@dpes5407/python-%E5%85%88%E4%BF%AE%E7%8F%AD-%E9%A1%8C%E7%9B%AE-50%E9%A1%8C-42b4ea770057
 
 ### 非專業類
 
@@ -47,3 +57,4 @@ Python考試很難嗎?
     可以
 
 ```
+
