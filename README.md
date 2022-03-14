@@ -54,13 +54,13 @@ https://medium.com/@dpes5407/python-%E5%85%88%E4%BF%AE%E7%8F%AD-%E9%A1%8C%E7%9B%
     不會，因為疫情關係沒有適當空間，請大家自行解決。
 
 會提供設備嗎?
-    會，有螢幕鍵盤滑鼠主機。我這台規格(i7-4770,GTX660,SSD_MX500,RAM_32GB)
+    會，有螢幕鍵盤滑鼠主機。我這台規格(i7_4770,GTX660,SSD_MX500,RAM_32GB)
 
 可以帶自己的筆電去嗎?
     可以
 
 Webex私訊老師為什麼沒回?
-    小幫手名稱有兩個不要搞錯(共同主持人，主持人)，要私分享畫面的那位
+    小幫手帳號名稱有兩個一樣的，不要搞錯(共同主持人，主持人)，要私分享畫面的那位
 
 專題人數?
     小專題人數:1人
@@ -75,4 +75,5 @@ Webex私訊老師為什麼沒回?
 ```
 
 小專發表：https://www.youtube.com/playlist?list=PLb-1bRwwEmjr1nJFQoI-cvolXQWnu5_i7
+
 大專發表：https://www.youtube.com/playlist?list=PLb-1bRwwEmjpyC9H0MGSzPs2l03Vw2TLJ
