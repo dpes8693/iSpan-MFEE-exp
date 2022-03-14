@@ -20,8 +20,7 @@ https://www.netacad.com/portal/learning
 ![Cisco Networking Academy](https://drive.google.com/uc?export=download&id=1plUzdNbouiq8Ha1tNKYBYIsKNj8CLqrk)
 
 >書
->> [秒懂行動網頁設計](http://isbn.ncl.edu.tw/NEW_ISBNNet/main_DisplayRecord.php?&Pact=Display&Pstart=1) 這本個人覺得太初學者向，很適合新手看
-
+>> [秒懂行動網頁設計](http://isbn.ncl.edu.tw/NEW_ISBNNet/main_DisplayRecord.php?&Pact=Display&Pstart=1)
 
 ## 課表(每月更新 1 次)
 
