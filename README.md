@@ -20,9 +20,12 @@ https://www.netacad.com/portal/learning
 ![Cisco Networking Academy](https://drive.google.com/uc?export=download&id=1plUzdNbouiq8Ha1tNKYBYIsKNj8CLqrk)
 
 > 書
+>
 > > 秒懂行動網頁設計 | ISBN: 9786263240315
+
 > > CSS 視覺辭典 | ISBN: 9789865028763
-> > JavaScript & jQuery：The Missing Manual國際中文版(第三版) | ISBN: 9789863476009
+
+> > JavaScript & jQuery：The Missing Manual 國際中文版(第三版) | ISBN: 9789863476009
 
 ## 課表(每月更新 1 次)
 
