@@ -19,8 +19,10 @@ Cisco Networking Academy
 https://www.netacad.com/portal/learning
 ![Cisco Networking Academy](https://drive.google.com/uc?export=download&id=1plUzdNbouiq8Ha1tNKYBYIsKNj8CLqrk)
 
->書
->> [秒懂行動網頁設計](http://isbn.ncl.edu.tw/NEW_ISBNNet/main_DisplayRecord.php?&Pact=Display&Pstart=1)
+> 書
+> > 秒懂行動網頁設計 | ISBN: 9786263240315
+> > CSS 視覺辭典 | ISBN: 9789865028763
+> > JavaScript & jQuery：The Missing Manual國際中文版(第三版) | ISBN: 9789863476009
 
 ## 課表(每月更新 1 次)
 
@@ -34,7 +36,7 @@ https://www.netacad.com/portal/learning
 
 ## 常見問題 QA
 
-### 課前
+### 課前疑問
 
 ```js
 上課前要做哪些準備?
@@ -47,9 +49,12 @@ Python考試很難嗎?
 
 https://medium.com/@dpes5407/python-%E5%85%88%E4%BF%AE%E7%8F%AD-%E9%A1%8C%E7%9B%AE-50%E9%A1%8C-42b4ea770057
 
-### 非專業類
+### 常見問題
 
 ```js
+課表上的LAB是什麼意思?
+    LAB=自習課
+
 為什麼老師上這麼慢?
     這不是家教班，需要顧及其他同學進度!
 
@@ -72,10 +77,12 @@ Webex私訊老師為什麼沒回?
 大專發表多久?
     一組約 15-20 分
 
-為什麼課表不能一起給? 
+為什麼課表不能一起給?
     不能保證學員會請假
 
 ```
+
+### 影片
 
 小專發表：https://www.youtube.com/playlist?list=PLb-1bRwwEmjr1nJFQoI-cvolXQWnu5_i7
 
