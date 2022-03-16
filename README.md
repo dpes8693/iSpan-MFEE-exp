@@ -12,6 +12,8 @@
 
 ## 提供的資源統整
 
+請假觀看影片的連結
+
 Adobe
 ![adobe-enterprise](https://drive.google.com/uc?export=download&id=1wLg7JdEAcpGKhSPxj7YtB-_7bS-Ln633)
 
