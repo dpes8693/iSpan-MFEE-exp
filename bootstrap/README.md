@@ -1,6 +1,6 @@
 ## 你會嗎?
 
-### 0314
+### 0314 2節
 
 - 請舉出一個 bootstrap 4 和 5 的差異
 - `.col-3 .col-sm-3 .col-md-3 .col-lg-3 .col-xl-3` 這五個會使畫面有什麼效果?
@@ -11,7 +11,7 @@
 - 如何使用 bootstrap 快速讓`<img>`增加邊框變成相片的效果?
 - 如何使用 bootstrap 快速讓`<img>`不會過大爆版?
 
-### 0315
+### 0315 1節
 
 - `class="row-cols-5"`是什麼意思?
 - `<table>` 的 bolder 屬性已棄用(deprecated)現在是否能使用?
@@ -19,7 +19,7 @@
 - 如何達到文字隨著畫面變大變小的效果?
 - bootstrap 的 `t r b l x y` 有什麼效果?
 
-### 0316
+### 0316 2節
 
 - 有聽過 VScode 的 Emmet? (上限\*1000)
 - boostrap 的`.fixed-top` 有什麼效果?
@@ -28,7 +28,7 @@
 - bootstrap 的 `t r b l x y` 有什麼效果?
 - `.nav` `.navbar` `scrollspy` 如何使用? ==${補充}==
 
-### 0317
+### 0317 1節
 
 - 如何使用bootstrap的
 - carousel(4.4和4.6 button有更改樣式)
@@ -39,6 +39,8 @@
 ## QA
 
 ```js
+2121
+
 bootstrap4為什麼JS沒有效果?
     引入順序要對，jquery>poper.js>bootstrap
 
