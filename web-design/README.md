@@ -1,6 +1,6 @@
 ## 你會嗎?
 
-### 0309
+### 0309 2節
 
 - VScode 移動單行的快捷鍵是?
 - 如何區分 HTML,CSS,JS?
@@ -8,7 +8,7 @@
 - property 和 attribute 差異是?
 - CSS(Cascading Style Sheets)中的 Cascading 是什麼意思?
 
-### 0310
+### 0310 2節
 
 - HTML 中`<!DOCTYPE html>`作用是?
 - 如何說明 CSS 的 inline style?
@@ -18,7 +18,7 @@
 - 如何解釋`<ul>, <ol>, <li>, <dl>, <dt>, <dd>`標籤?
 - HTML 如何加入影片和圖片?
 
-### 0311
+### 0311 2節
 
 - `<img src="../img.png">`兩個點和一個點有什麼差異?
 - `<table>,<thead>,<tbody>,<tr>,<th>`標籤順序怎麼擺放?
@@ -31,7 +31,7 @@
 ## QA
 
 ```js
-222
+
 Git 圖片上有會上嗎?
     會安排
 
