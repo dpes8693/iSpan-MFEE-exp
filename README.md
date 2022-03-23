@@ -36,7 +36,7 @@ https://www.netacad.com/portal/learning
 - 網頁設計(Web Design) \*6
 - Bootstrap \*6
 - CSS \*10
-- 網站視覺(Website Visual Design)
+- 網站視覺(Website Visual Design) \*8
 - JavaScript \*12
 
 ## 常見問題 QA
@@ -50,6 +50,9 @@ https://www.netacad.com/portal/learning
 Python考試很難嗎?
     都是考基本觀念，難易度是看個人，我只能說完全不看書一定不會及格。
 
+上課地點?停車方便?
+    我們在`中華電信學院台中所`綜合大樓(正中間那棟)。
+    裡面有機車和汽車停車場，警衛會量體溫。
 ```
 
 https://medium.com/@dpes5407/python-%E5%85%88%E4%BF%AE%E7%8F%AD-%E9%A1%8C%E7%9B%AE-50%E9%A1%8C-42b4ea770057
@@ -60,6 +63,7 @@ https://medium.com/@dpes5407/python-%E5%85%88%E4%BF%AE%E7%8F%AD-%E9%A1%8C%E7%9B%
 課表上的LAB是什麼意思?
     LAB=自習課
 
+
 為什麼老師上這麼慢?
     這不是家教班，需要顧及其他同學進度!
 
@@ -67,7 +71,7 @@ https://medium.com/@dpes5407/python-%E5%85%88%E4%BF%AE%E7%8F%AD-%E9%A1%8C%E7%9B%
     不會，因為疫情關係沒有適當空間，請大家自行解決。
 
 會提供設備嗎?
-    會，有螢幕鍵盤滑鼠主機。我這台規格(i7_4770,GTX660,SSD_MX500,RAM_32GB)
+    會，有螢幕鍵盤滑鼠主機。我這台規格(i7_4770,GTX650Ti,SSD_MX500,RAM_32GB)
 
 可以帶自己的筆電去嗎?
     可以
