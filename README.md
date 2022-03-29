@@ -33,11 +33,15 @@ https://www.netacad.com/portal/learning
 
 0900-1200 休息 1330-1630
 
+- LAB-1 \*3
+- LAB-2 \*1 + 小專題\*12
 - 網頁設計(Web Design) \*6
 - Bootstrap \*6
 - CSS \*10
 - 網站視覺(Website Visual Design) \*8
 - JavaScript \*12
+- MySQL \*6
+- PHP \*6
 
 ## 常見問題 QA
 
@@ -96,3 +100,11 @@ Webex私訊老師為什麼沒回?
 小專發表：https://www.youtube.com/playlist?list=PLb-1bRwwEmjr1nJFQoI-cvolXQWnu5_i7
 
 大專發表：https://www.youtube.com/playlist?list=PLb-1bRwwEmjpyC9H0MGSzPs2l03Vw2TLJ
+
+---
+
+## 學習老師優點
+
+1. 許老師將程式碼放在`Dropbox`存檔自動同步，漏掉可以馬上比對。
+2. 錢老師會分享工作經驗例如:撰寫`Function`前面加上判斷，畢竟不能保證其他人會更動執行順序。
+3. 陳老師不斷提醒我們軟體工具要以邏輯方式去熟練操作，不是死記步驟。

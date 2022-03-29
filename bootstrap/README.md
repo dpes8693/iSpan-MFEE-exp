@@ -52,6 +52,10 @@ bootstrap4為什麼JS沒有效果?
 
 ```
 
-## 補充資料
+## 作業
 
-https://w3c.hexschool.com/flexbox/4a029043
+無
+
+<!-- ## 補充資料
+
+https://w3c.hexschool.com/flexbox/4a029043 -->
