@@ -42,12 +42,13 @@
 
 ### 0325 2節
 
-- 各種選擇器
-- CSS權重
-- 響應式表格
-- FLEX
+- CSS選擇器中有一類叫做`Combinator`，請列舉當中的4個
+- 請列3個`Pseudo-classes`和`Pseudo-elements`
+- 請解釋CSS權重`Specificity`
+- `flex`系統
+- 響應式表格怎麼製作?
 
 ## 作業
 
-1. Rolling Cloud
-2. RWD 2 Column
+1. Rolling Cloud 製作一個使用`background-img`由左至右移動的循環動畫
+2. RWD 2 Column Web
