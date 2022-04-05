@@ -28,12 +28,12 @@
 
 - PS
   - 實作練習+複習
-  - 檢視`grid`
+  - 檢視格線
   - 字體浮雕效果
   - 濾鏡
   - 切片工具切圖
-  - 轉存HTML
-  - 動畫影格輸出GIF
+  - 轉存網頁+圖片
+  - 動畫影格輸出 GIF
   - 彩色網屏
   - 載入圖片堆疊
   - 參考線
@@ -69,8 +69,11 @@
   - 作業說明
 
 - 套件&網站說明
+
  -[Figma中文化](https://figmachina.com/guide/)
+
  -[商用圖片](https://pixabay.com/)
+ 
  -[補充](https://docs.google.com/document/d/14UWGPl3WVJs4t1BViimRlkII1iuuktJY/edit?usp=sharing&ouid=101358720291471255239&rtpof=true&sd=true)
 
 
