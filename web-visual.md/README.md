@@ -1,4 +1,4 @@
-## 前端學 Phtoshop 是否搞錯了什麼?
+## 前端學 Phtoshop + Figma ?
 
 ### 0328 2 節
 
@@ -49,10 +49,30 @@
   - 圖片對齊 快速插入圖片
   - 框選物件 智慧對齊
   - hotkey 常用快捷鍵
-  - constraints 約束
-  - components 基本組件應用(父子關係)
-  - smart selection 智慧選擇
+  - `constraints` 約束
+  - `components` 基本組件應用(父子關係)
+  - `components variants`
+  - `smart selection` 智慧選擇
   - 一些 plugin 介紹
+
+### 0331
+- PS
+  - 重點複習
+
+- Figma 操作
+  - style 共用樣式教學
+  - 快速填圖技巧 `ctrl shift K`
+  - `auto layout` 教學(RWD Frame)
+  - `layout grid` 教學
+  - 實戰製作 RWD card
+  - 實戰製作 RWD table
+  - 作業說明
+
+- 套件&網站說明
+ -[Figma中文化](https://figmachina.com/guide/)
+ -[商用圖片](https://pixabay.com/)
+ -[補充](https://docs.google.com/document/d/14UWGPl3WVJs4t1BViimRlkII1iuuktJY/edit?usp=sharing&ouid=101358720291471255239&rtpof=true&sd=true)
+
 
 ## QA
 
@@ -64,4 +84,15 @@
 ```
 ## 作業
 
-在`Figma`製作個人簡歷包含2個個`frame`PC手機各一
+``` md
+製作主題：
+    - 個人簡歷figma製作(網頁及手機版)
+      - 一張PSD 圖片（此圖片可為figma 裡面需要用的圖片）
+      - 內容至少三區塊
+
+    - 製作尺寸
+      - PSD不拘 解析度72即可
+      - FIGMA：
+            桌機  Ｗ：1440px    Ｈ：不限
+            手機   Ｗ：375px      Ｈ：不限
+```

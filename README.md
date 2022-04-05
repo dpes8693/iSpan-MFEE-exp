@@ -12,7 +12,7 @@
 
 ## 提供的資源統整
 
-請假觀看影片的連結
+會提供觀看影片的連結(請假可觀看)
 
 Adobe
 ![adobe-enterprise](https://drive.google.com/uc?export=download&id=1wLg7JdEAcpGKhSPxj7YtB-_7bS-Ln633)
@@ -34,11 +34,11 @@ https://www.netacad.com/portal/learning
 0900-1200 休息 1330-1630
 
 - LAB-1 \*3
-- LAB-2 \*1 + 小專題\*12
-- 網頁設計(Web Design) \*6
+- 網頁設計(web-design) \*6
 - Bootstrap \*6
 - CSS \*10
-- 網站視覺(Website Visual Design) \*8
+- 網站視覺(web-visual) \*8
+- LAB-2 \*1 + 小專題\*12
 - JavaScript \*12
 - MySQL \*6
 - PHP \*6
