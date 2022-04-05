@@ -48,6 +48,9 @@ https://www.netacad.com/portal/learning
 ### 課前疑問
 
 ```js
+會有課程作業嗎?
+    多數課程有，會公告在 `GoogleClassroom`
+
 上課前要做哪些準備?
     以下帳號要有:['google','adobe','line','fb','Cisco Webex']
 
@@ -95,16 +98,16 @@ Webex私訊老師為什麼沒回?
 
 ```
 
-### 影片
+<!-- ### 影片
 
-小專發表：https://www.youtube.com/playlist?list=PLb-1bRwwEmjr1nJFQoI-cvolXQWnu5_i7
+[小專發表](https://www.youtube.com/playlist?list=PLb-1bRwwEmjr1nJFQoI-cvolXQWnu5_i7)
 
-大專發表：https://www.youtube.com/playlist?list=PLb-1bRwwEmjpyC9H0MGSzPs2l03Vw2TLJ
+[大專發表](https://www.youtube.com/playlist?list=PLb-1bRwwEmjpyC9H0MGSzPs2l03Vw2TLJ) -->
 
 ---
 
 ## 學習老師優點
 
-1. 許老師將程式碼放在`Dropbox`存檔自動同步，漏掉可以馬上比對。問問題會請大家在聊天室互動(怕大家害羞)。
+1. 許老師將程式碼放在`Dropbox`存檔自動同步，漏掉可以馬上比對。問問題會請大家在聊天室互動(怕大家害羞)。每節課的程式碼依照順序排序，辨識度高。
 2. 錢老師會分享工作經驗例如:撰寫`Function`前面加上判斷，畢竟不能保證其他人會更動執行順序。
 3. 陳老師不斷提醒我們軟體工具要以邏輯方式去熟練操作，不是死記步驟。
