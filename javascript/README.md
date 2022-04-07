@@ -31,6 +31,16 @@
     - pop() shift()
     - 0.1+0.2!=0.3
 - Object 簡介
+### 0407 2 節
+- Date()
+    <!-- - toFixed(2) toPrecision(2) 差異是?
+    - num.toString()
+    - 0.1+0.2!=0.3 -->
+- Math()
+    <!-- - push() unshift()
+    - pop() shift()
+    - 0.1+0.2!=0.3 -->
+- && ||
 
 <!-- ### 想法 -->
 
