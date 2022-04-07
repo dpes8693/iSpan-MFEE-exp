@@ -32,15 +32,22 @@
     - 0.1+0.2!=0.3
 - Object 簡介
 ### 0407 2 節
-- Date()
-    <!-- - toFixed(2) toPrecision(2) 差異是?
-    - num.toString()
-    - 0.1+0.2!=0.3 -->
+- Operator
+    - `++a` `a++` 差異是?請以判斷式舉例。
+    - `console.log(3>2>1)`為什麼印出`false`?
+    - 請寫出`Ternary Operator`
 - Math()
-    <!-- - push() unshift()
-    - pop() shift()
-    - 0.1+0.2!=0.3 -->
-- && ||
+    - PI
+    - random()
+    - ceil() floor()
+    - round()
+    - sqrt()
+    - abs()
+- Date()
+    - setDate() getDate()
+    - `let d = new Date()`
+    - 很多方法
+    - 最後一天怎麼找?
 
 <!-- ### 想法 -->
 
