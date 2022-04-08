@@ -50,6 +50,11 @@
     - 最後一天怎麼找?
 
 ### 0408 2 節
+- window
+    - alert()
+    - prompt()
+    - confirm()
+    - confirm()
 - 計時器
     - setInterval()//handler 就是塞入function
     - setTimeout()
@@ -60,13 +65,11 @@
     - byTagName
     - querySelector
 - getPropertyValue
-d.toLocaleString() //2022/4/8 上午11:17:42
-d.toLocaleDateString() //2022/4/8
-d.toLocaleTimeString() //上午11:17:42
-window.alert()
-window.prompt()
-window.confirm()
-window.confirm()
+- 為什麼 el.style.top是空的，我在CSS有設定?
+- 補充日期方法
+    - d.toLocaleString() //2022/4/8 上午11:17:42
+    - d.toLocaleDateString() //2022/4/8
+
 
 <!-- ### 想法 -->
 
