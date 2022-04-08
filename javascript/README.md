@@ -49,6 +49,25 @@
     - 很多方法
     - 最後一天怎麼找?
 
+### 0408 2 節
+- 計時器
+    - setInterval()//handler 就是塞入function
+    - setTimeout()
+    - clearInterval()
+    - clearTimeout()
+- DOM操作
+    - byId
+    - byTagName
+    - querySelector
+- getPropertyValue
+d.toLocaleString() //2022/4/8 上午11:17:42
+d.toLocaleDateString() //2022/4/8
+d.toLocaleTimeString() //上午11:17:42
+window.alert()
+window.prompt()
+window.confirm()
+window.confirm()
+
 <!-- ### 想法 -->
 
 <!-- 魔王教你JS資料操作
