@@ -31,8 +31,9 @@ https://www.netacad.com/portal/learning
 
 ## 課表(每月更新 1 次)
 
-0900-1200 休息 1330-1630
+`0900-1200` 休息 `1330-1630`
 
+- 啟程 `2022.03.08`
 - LAB-1 \*3
 - 網頁設計(web-design) \*6
 - Bootstrap \*6
@@ -40,8 +41,9 @@ https://www.netacad.com/portal/learning
 - 網站視覺(web-visual) \*8
 - LAB-2 \*1 + 小專題\*12
 - JavaScript \*12
-- MySQL \*6
-- PHP \*6
+- 小專題 `2022.04.22`
+<!-- - MySQL \*6
+- PHP \*6 -->
 
 ## 常見問題 QA
 
@@ -49,16 +51,16 @@ https://www.netacad.com/portal/learning
 
 ```js
 會有課程作業嗎?
-    多數課程有，會公告在 `GoogleClassroom`
+    多數課程有，會公告在 `Google Classroom`
 
 上課前要做哪些準備?
-    以下帳號要有:['google','adobe','line','fb','Cisco Webex']
+    需要以下帳號: ['google','adobe','line','fb','Cisco Webex']
 
 Python考試很難嗎?
     都是考基本觀念，難易度是看個人，我只能說完全不看書一定不會及格。
 
 上課地點?停車方便?
-    我們在`中華電信學院台中所`綜合大樓(正中間那棟)。
+    我們在`中華電信學院台中所`綜合大樓上課(正中間那棟)。
     裡面有機車和汽車停車場，警衛會量體溫。
 ```
 
@@ -70,9 +72,8 @@ https://medium.com/@dpes5407/python-%E5%85%88%E4%BF%AE%E7%8F%AD-%E9%A1%8C%E7%9B%
 課表上的LAB是什麼意思?
     LAB=自習課
 
-
-為什麼老師上這麼慢?
-    這不是家教班，需要顧及其他同學進度!
+進度快慢?
+    依照多數同學的程度來抓速度，記住~這不是家教班，需要顧及其他同學進度!
 
 會統一訂便當嗎?
     不會，因為疫情關係沒有適當空間，請大家自行解決。
