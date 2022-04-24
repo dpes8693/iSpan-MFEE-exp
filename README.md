@@ -29,6 +29,8 @@ https://www.netacad.com/portal/learning
 
 > > JavaScript & jQuery：The Missing Manual 國際中文版(第三版) | ISBN: 9789863476009
 
+> > MySQL 5.X/6.X 雲端資料庫SQL設計技術寶典(附綠色範例檔) | ISBN: 9789869291248
+
 ## 課表(每月更新 1 次)
 
 `0900-1200` 休息 `1330-1630`
