@@ -31,6 +31,8 @@ https://www.netacad.com/portal/learning
 
 > > MySQL 5.X/6.X 雲端資料庫SQL設計技術寶典(附綠色範例檔) | ISBN: 9789869291248
 
+> > 新觀念 PHP8+MySQL+AJAX 網頁程式範例教本 第六版 | ISBN: 9789863126850
+
 ## 課表(每月更新 1 次)
 
 `0900-1200` 休息 `1330-1630`
