@@ -1,0 +1,61 @@
+## 你會嗎?
+
+### 0506
+
+function 觸發複習?
+
+```js
+function f1(str) {
+  console.log(str());
+}
+f1(function f() {
+  return "hi~";
+});
+f1(() => "hi~~");
+```
+
+```js
+function f2(str) {
+  str("hi~~~");
+}
+f2(function f(str) {
+  console.log(str);
+});
+f2((str) => console.log(str));
+```
+
+IIFE 是什麼? 請舉例
+
+```js
+var f = (function () {
+  console.log(123);
+})();
+//進化
+(function () {
+  console.log(123);
+})();
+```
+
+`event.preventDefault`
+`event.stopPropagation`
+js 限制使用者 輸入小寫
+
+```js
+    <input type="text" id="textbox" onkeypress="check(event)" placeholder="pD">
+    <input type="text" id="textbox" onkeyup="value=value.replace(/[^\a-\z]/g,'')">
+
+    <script>
+        function check(e) {
+            let flag = 97 <= e.keyCode && e.keyCode <= 122
+            if (!flag) e.preventDefault()
+        }
+        function lowerOnly(id) {
+            let el = document.getElementById(id)
+            el.value = el.value.replace(/[^\a-\z]/g, '')
+        }
+
+    </script>
+```
+
+### 原來id可以直接當變數用 不用宣告...
+### js經典 事件冒泡(傳導)，阻止
