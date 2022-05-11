@@ -59,3 +59,19 @@ js 限制使用者 輸入小寫
 
 ### 原來id可以直接當變數用 不用宣告...
 ### js經典 事件冒泡(傳導)，阻止
+
+### 0509
+### 0510
+
+### 0511
+1A2B 寫程式的邏輯
+早上檢討作業
+jQuery filter回傳機制
+
+    <script>
+        $('li').filter(function (i, el) {
+            if(el.innerText === '草莓') return true;
+        }).each(function(c, d){
+            console.log(d); // 草莓
+        })
+    </script>
