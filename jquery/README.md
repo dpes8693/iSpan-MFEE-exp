@@ -81,6 +81,7 @@ jQuery filter回傳機制
     </script>
 
 $('li').eq(0) //li很多個 選第一個
+```
 
 ### 0512
 昨天寫到 HSL變換顏色的HW
@@ -97,4 +98,25 @@ removeClass()//預設是全部消除
 `多事件合併`
 
 `分清楚四組XY座標`
-```
+
+
+### 0513
+
+旋轉圖片
+魯夫人名
+checkbox全選
+
+### 0516 1
+jQuery UI
+date picker
+### 0517 1
+jQuery UI
+color slider picker
+jQuery 
+animate() //若需要控制color相關CSS需要外掛UI
+
+jQuery UI 彈出效果
+light-box套件 圖片燈箱
+
+簡單帶過HTML5 API
+API是什麼
