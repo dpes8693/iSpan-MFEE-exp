@@ -119,3 +119,24 @@ let john = Object.create(person); // John 會繼承 person 這個物件
 <script type="module"> import x from './j.js'</script>
 
 `輸出class`
+How TO - Image Zoom
+## 0524
+canvasElement.toDataURL() 轉成資料(圖片)字串，放入href可以下載
+滑鼠事件:
+https://medium.com/@shizukuichi/mouse-event-%E5%B0%8F%E7%AD%86%E8%A8%98-feb5dd866b0
+
+檔案讀取
+        //      * FileReader.readAsText( Blob | File)
+        //      * FileReader.onload
+        //      * FileReader.result
+              //      * FileReader.readAsDataURL( Blob | File)
+
+抓取地理位置(經緯度)
+攝影機
+稍微帶過Promise物件
+
+#### 其他
+'getBoundingClientRect'?
+
+## 0525
+speech 
