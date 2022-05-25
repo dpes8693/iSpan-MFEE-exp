@@ -139,4 +139,12 @@ https://medium.com/@shizukuichi/mouse-event-%E5%B0%8F%E7%AD%86%E8%A8%98-feb5dd86
 'getBoundingClientRect'?
 
 ## 0525
-speech 
+canvas video攝像頭擷取
+speech 說話&錄音
+
+RESTful簡介
+new XMLHttpRequest()教學
+parser = new DOMparser();
+2017以前JSON沒有那麼流行，現在大家都用JSON
+parser.parseFromString(text,'text/xml')
+childNodes
