@@ -1,41 +1,59 @@
-# 給上課之前的捧有們玩的遊戲
+# 給猶豫的朋友們的話
 
-覺得都看不懂也不用氣餒，幫自己訂一個目標慢慢完成~
+## 上課 3 個月的心得
 
-## JS 程式邏輯
+- 先來說說我覺得欠缺的地方:
+  - 改作業 code review
+  - 大專案的資料夾結構講解
+  - 切版量不夠
 
-https://oj.lidemy.com/
+以下針對這三點展開討論:
 
-## CSS
+老師們都具備相關知識但是上課很緊湊，不像一些機構有人力和資源去做`code review`，
+剛學的新手會有一些不好的習慣需要有人告訴他們這樣寫會有什麼缺點...怎麼改善比較好一些，我認為這是很重要的機制!
+除非學生主動問老師問題，不然真的是很大的硬傷。大家必須主動出擊才有優勢~
 
-https://flukeout.github.io/
+大型專案開發只有`大專題`，同上除非主動詢問老師資料夾結構怎麼分比較好，不然上課都是小練習而已。
 
-http://flexboxfroggy.com/
+前端工程師最基本的是切版對吧?我覺得可惜的是沒有一種作業是給設計稿讓學生練習切版，都是偏簡單的練習或讓大家自由發揮。
 
-## Web API
+![作業列表](https://i.imgur.com/0IvEkJB.png)
 
-https://r30challenge.herokuapp.com/
+站在資展的角度我很能理解上面這些要求太多了，進來的學員多數都是想轉職基礎都還沒打好要求過度會導致很多人中途退訓，老師們會被上級長官刁，也許還有 KPI 機制等等...以上都是主觀想法~
 
-https://lidemy-http-challenge.herokuapp.com/start
+- 優點部分:
+  - 有書籍(和班級人數有關)
+  - 知識基礎部分講解的很清楚
+  - 小範例量夠多
+  - 老師都很願意引導學員解決問題
 
-## 優化網頁
+### 總結:
 
-https://github.com/Lidemy/lazy-hackathon
+我認為如果是完全沒基礎想轉職的學員可以進來聽課，但是要付出大量的練習時間(我覺得至少 200 小時以上)
 
-===
+如果你是後端工程師想轉前端，建議買線上課程或是其他機構相對來說比較有幫助!
 
-議題:
+---
 
-- call,apply,bind 區別
-- EventLoop 畫圖
-- Browser 四大內核
-- Browser's Reflow & Repaint
-- HTML5 離線儲存方式
+## 以下是開訓前可以預習的事情
 
-面試問題:
+> 覺得都看不懂也不用氣餒，幫自己訂一個目標慢慢完成~
+
+### 學習資源
+
+[W3Schools](https://www.w3schools.com/)
+[freeCodeCamp](https://www.freecodecamp.org/learn)
+
+### 認真看前輩的介紹
+
+https://forum.gamer.com.tw/C.php?bsn=60561&snA=19606
+
+### 理解面試問題
+
+https://hiskio-official.gitbook.io/frontend-interview/interview-qa
 
 https://github.com/ltadpoles/web-document/blob/master/Other/%E9%9D%A2%E8%AF%95%E7%9B%B8%E5%85%B3/%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95%E9%A2%98-HTML%2BCSS.md
 
-文章:
+### 文章推薦
 
 https://progressbar.tw/serials/3
