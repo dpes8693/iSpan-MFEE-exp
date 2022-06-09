@@ -14,15 +14,18 @@
 
 會提供觀看影片的連結(請假可觀看)
 
-Adobe
+### Adobe
+
 ![adobe-enterprise](https://drive.google.com/uc?export=download&id=1wLg7JdEAcpGKhSPxj7YtB-_7bS-Ln633)
 
-Cisco Networking Academy
+### Cisco Networking Academy
+
 https://www.netacad.com/portal/learning
+
 ![Cisco Networking Academy](https://drive.google.com/uc?export=download&id=1plUzdNbouiq8Ha1tNKYBYIsKNj8CLqrk)
 
-> 書
->
+### 書
+
 > > 秒懂行動網頁設計 | ISBN: 9786263240315
 
 > > CSS 視覺辭典 | ISBN: 9789865028763
@@ -33,21 +36,41 @@ https://www.netacad.com/portal/learning
 
 > > 新觀念 PHP8+MySQL+AJAX 網頁程式範例教本 第六版 | ISBN: 9789863126850
 
+> > 用 Node.js 一統 JavaScript 前後端：強勢 Web 開發親手作 | ISBN：9865501686
+
+> > React 學習手冊 第二版 | ISBN：9789865027568
+
 ## 課表(每月更新 1 次)
 
 `0900-1200` 休息 `1330-1630`
 
-- 啟程 `2022.03.08`
-- LAB-1 \*3
-- 網頁設計(web-design) \*6
-- Bootstrap \*6
-- CSS \*10
-- 網站視覺(web-visual) \*8
-- LAB-2 \*1 + 小專題\*12
-- JavaScript \*12
-- 小專題 `2022.04.22`
-<!-- - MySQL \*6
-- PHP \*6 -->
+以下是課程清單(大略分組一下)
+
+- 一
+  - 啟程 `2022.03.08`
+  - LAB-1 \*3
+  - 網頁設計(web-design) \*6
+  - Bootstrap \*6
+  - CSS \*10
+  - 網站視覺(web-visual) \*8
+- 二
+  - LAB-2 \*1 + 小專題\*12
+  - JavaScript \*12
+  - 小專題 `2022.04.22`
+  - MySQL DB \*6
+- 三
+  - LAB-3 \*4
+  - PHP \*12
+  - jQuery \*12
+  - HTML5 API \*12
+  - RESTful \*6
+  - 大專題分組 `5月中後期`
+- 四
+  - LAB-4 \*10
+  - Node.js+Express \*12
+  - React \*14
+
+![課表](https://drive.google.com/uc?export=download&id=1v99tr1M7VXWqsSzgsTPN9WJBIVrxfvB9)
 
 ## 常見問題 QA
 
@@ -60,12 +83,12 @@ https://www.netacad.com/portal/learning
 上課前要做哪些準備?
     需要以下帳號: ['google','adobe','line','fb','Cisco Webex']
 
-Python考試很難嗎?
-    都是考基本觀念，難易度是看個人，我只能說完全不看書一定不會及格。
-
 上課地點?停車方便?
     我們在`中華電信學院台中所`綜合大樓上課(正中間那棟)。
     裡面有機車和汽車停車場，警衛會量體溫。
+
+Python考試很難嗎?
+    都是考基本觀念，難易度是看個人，我只能說完全不看書一定不會及格。
 ```
 
 https://medium.com/@dpes5407/python-%E5%85%88%E4%BF%AE%E7%8F%AD-%E9%A1%8C%E7%9B%AE-50%E9%A1%8C-42b4ea770057
@@ -118,3 +141,13 @@ Webex私訊老師為什麼沒回?
 1. 老師會將程式碼放在`Dropbox`存檔自動同步，漏掉可以馬上比對。問問題會請大家在聊天室互動(怕大家害羞)。每節課的程式碼依照順序排序，辨識度高。
 2. 老師會分享工作經驗例如:撰寫`Function`前面加上判斷，畢竟不能保證其他人會更動執行順序。很認同老師上課說的一句話:"你不是學生了，要把自己當成工程師來分析並解決問題"
 3. 老師不斷提醒我們軟體工具要以邏輯方式去熟練操作，不是死記步驟。
+
+## 關於這份repo
+`MyQL` 
+`PHP`
+`jQuery`
+`HTML5`
+`RESTFUL`
+`Nodejs`
+`React`
+後面維護需要時間整理
