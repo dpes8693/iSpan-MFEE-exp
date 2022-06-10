@@ -1,6 +1,6 @@
-## 你會嗎?
+## 網頁設計(入門) 6 節
 
-### 0309 2節
+### 0309 2 節
 
 - VScode 移動單行的快捷鍵是?
 - 如何區分 HTML,CSS,JS?
@@ -8,7 +8,7 @@
 - property 和 attribute 差異是?
 - CSS(Cascading Style Sheets)中的 Cascading 是什麼意思?
 
-### 0310 2節
+### 0310 2 節
 
 - HTML 中`<!DOCTYPE html>`作用是?
 - 如何說明 CSS 的 inline style?
@@ -18,7 +18,7 @@
 - 如何解釋`<ul>, <ol>, <li>, <dl>, <dt>, <dd>`標籤?
 - HTML 如何加入影片和圖片?
 
-### 0311 2節
+### 0311 2 節
 
 - `<img src="../img.png">`兩個點和一個點有什麼差異?
 - `<table>,<thead>,<tbody>,<tr>,<th>`標籤順序怎麼擺放?
@@ -45,6 +45,3 @@ CSS 權重會上嗎?
     都行看個人，沒有一定要先學甚麼，只是有些先學會比較輕鬆
 
 ```
-## 作業
-
-無

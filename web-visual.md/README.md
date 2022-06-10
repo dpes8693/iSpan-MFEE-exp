@@ -1,8 +1,8 @@
-## 前端學 Phtoshop + Figma ?
+## 網站視覺 8 節
 
 ### 0328 2 節
 
-- PS 
+- PS
   - 內容感知
   - 解說智慧圖層
   - 將角度歪掉圖片=>調成水平
@@ -13,16 +13,15 @@
   - 取用不同照片光影效果
   - 修補工具(紅眼,痘痘)
   - 色相飽和度
-  - 色調臨界值  
+  - 色調臨界值
 
 - PS 快捷鍵
   - `ctrl i`反轉前景和背景色
-  -  鋼筆 `alt`可以控制`bar`
+  - 鋼筆 `alt`可以控制`bar`
   - 前後景全砍`alt del`
   - 前後景全加`ctrl del`
   - 前後景切換‵`X`
   - 自由選取工具`alt`去除,`shift`加選
-
 
 ### 0329 2 節
 
@@ -55,11 +54,14 @@
   - `smart selection` 智慧選擇
   - 一些 plugin 介紹
 
-### 0331
+### 0331 2 節
+
 - PS
+
   - 重點複習
 
 - Figma 操作
+
   - style 共用樣式教學
   - 快速填圖技巧 `ctrl shift K`
   - `auto layout` 教學(RWD Frame)
@@ -70,12 +72,11 @@
 
 - 套件&網站說明
 
- -[Figma中文化](https://figmachina.com/guide/)
+  -[Figma 中文化](https://figmachina.com/guide/)
 
- -[商用圖片](https://pixabay.com/)
- 
- -[補充](https://docs.google.com/document/d/14UWGPl3WVJs4t1BViimRlkII1iuuktJY/edit?usp=sharing&ouid=101358720291471255239&rtpof=true&sd=true)
+  -[商用圖片](https://pixabay.com/)
 
+  -[補充](https://docs.google.com/document/d/14UWGPl3WVJs4t1BViimRlkII1iuuktJY/edit?usp=sharing&ouid=101358720291471255239&rtpof=true&sd=true)
 
 ## QA
 
@@ -85,13 +86,11 @@
     0.視覺相關知識 1.Photoshop 2.Figma
 
 ```
+
 ## 作業
 
-``` md
-製作主題：
-    - 個人簡歷figma製作(網頁及手機版)
-      - 一張PSD 圖片（此圖片可為figma 裡面需要用的圖片）
-      - 內容至少三區塊
+```md
+製作主題： - 個人簡歷 figma 製作(網頁及手機版) - 一張 PSD 圖片（此圖片可為 figma 裡面需要用的圖片） - 內容至少三區塊
 
     - 製作尺寸
       - PSD不拘 解析度72即可

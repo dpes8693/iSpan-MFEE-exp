@@ -1,3 +1,5 @@
+# HTML5 6 節
+
 ## 小畫家簽名
 
 ### 0517 0.5
@@ -120,31 +122,35 @@ let john = Object.create(person); // John 會繼承 person 這個物件
 
 `輸出class`
 How TO - Image Zoom
+
 ## 0524
-canvasElement.toDataURL() 轉成資料(圖片)字串，放入href可以下載
+
+canvasElement.toDataURL() 轉成資料(圖片)字串，放入 href 可以下載
 滑鼠事件:
 https://medium.com/@shizukuichi/mouse-event-%E5%B0%8F%E7%AD%86%E8%A8%98-feb5dd866b0
 
 檔案讀取
-        //      * FileReader.readAsText( Blob | File)
-        //      * FileReader.onload
-        //      * FileReader.result
-              //      * FileReader.readAsDataURL( Blob | File)
+// _ FileReader.readAsText( Blob | File)
+// _ FileReader.onload
+// _ FileReader.result
+// _ FileReader.readAsDataURL( Blob | File)
 
 抓取地理位置(經緯度)
 攝影機
-稍微帶過Promise物件
+稍微帶過 Promise 物件
 
 #### 其他
+
 'getBoundingClientRect'?
 
 ## 0525
-canvas video攝像頭擷取
+
+canvas video 攝像頭擷取
 speech 說話&錄音
 
-RESTful簡介
+RESTful 簡介
 new XMLHttpRequest()教學
 parser = new DOMparser();
-2017以前JSON沒有那麼流行，現在大家都用JSON
+2017 以前 JSON 沒有那麼流行，現在大家都用 JSON
 parser.parseFromString(text,'text/xml')
 childNodes
