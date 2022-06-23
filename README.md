@@ -1,12 +1,10 @@
 # iSpan-MFEE-exp
 
-## 這份 repo 是紀錄我在前端專班學習的歷程
-
-會記錄我不熟的部分以及新理解的知識
+`紀錄我在前端專班學習的歷程`
 
 ## 聲明
 
-不會將課程內容和檔案直接複製上來，會以 QA 形式讓大家"概略"理解課程內容教了哪些?
+此`Repo`不會將課程內容和檔案複製上來，會以 QA 形式讓大家"概略"理解課程內容教了哪些?
 
 > 不代表官方立場，實際還是以官方為主。
 
@@ -24,7 +22,7 @@ https://www.netacad.com/portal/learning
 
 ![Cisco Networking Academy](https://drive.google.com/uc?export=download&id=1plUzdNbouiq8Ha1tNKYBYIsKNj8CLqrk)
 
-### 書
+### 我們班有拿到的書
 
 > > 秒懂行動網頁設計 | ISBN: 9786263240315
 
@@ -44,7 +42,7 @@ https://www.netacad.com/portal/learning
 
 `0900-1200` 休息 `1330-1630`
 
-以下是課程清單(大略分組一下)
+以下依照月份排序
 
 - 一
   - 啟程 `2022.03.08`
@@ -64,11 +62,15 @@ https://www.netacad.com/portal/learning
   - jQuery \*12
   - HTML5 API \*12
   - RESTful \*6
-  - 大專題分組 `5月中後期`
+  - 大專題分組 `我們在5月中後分組`
 - 四
   - LAB-4 \*10
   - Node.js+Express \*12
-  - React \*14
+  - React \*14 (最後一天有帶到Vue)
+  - 職場講座+模擬面試 \*2
+- 五  
+  - LAB-5 \*44
+  - 成果發表 \*2
 
 ![課表](https://drive.google.com/uc?export=download&id=1v99tr1M7VXWqsSzgsTPN9WJBIVrxfvB9)
 
@@ -78,14 +80,14 @@ https://www.netacad.com/portal/learning
 
 ```js
 會有課程作業嗎?
-    多數課程有，會公告在 `Google Classroom`
+    部分課程有，會公告在 `Google Classroom`
 
 上課前要做哪些準備?
-    需要以下帳號: ['google','adobe','line','fb','Cisco Webex']
+    需要以下帳號: ['google','adobe','line','fb','Cisco Webex','Microsoft']
 
 上課地點?停車方便?
-    我們在`中華電信學院台中所`綜合大樓上課(正中間那棟)。
-    裡面有機車和汽車停車場，警衛會量體溫。
+    我們前期人數超過50人，在`中華電信學院台中所`綜合大樓上課(正中間那棟)，裡面有機車和汽車停車場，警衛會量體溫。
+    後期在台中資展國際(資策會)比較難停車。
 
 Python考試很難嗎?
     都是考基本觀念，難易度是看個人，我只能說完全不看書一定不會及格。
@@ -111,7 +113,7 @@ https://medium.com/@dpes5407/python-%E5%85%88%E4%BF%AE%E7%8F%AD-%E9%A1%8C%E7%9B%
 可以帶自己的筆電去嗎?
     可以
 
-Webex私訊老師為什麼沒回?
+Webex(會議軟體)私訊老師為什麼沒回?
     小幫手帳號名稱有兩個一樣的，不要搞錯(共同主持人，主持人)，要私分享畫面的那位
 
 專題人數?
@@ -136,17 +138,9 @@ Webex私訊老師為什麼沒回?
 
 ## 學習老師優點
 
-> 故意將名稱隱藏
-
 1. 老師會將程式碼放在`Dropbox`存檔自動同步，漏掉可以馬上比對。問問題會請大家在聊天室互動(怕大家害羞)。每節課的程式碼依照順序排序，辨識度高。
 2. 老師會分享工作經驗例如:撰寫`Function`前面加上判斷，畢竟不能保證其他人會更動執行順序。很認同老師上課說的一句話:"你不是學生了，要把自己當成工程師來分析並解決問題"
 3. 老師不斷提醒我們軟體工具要以邏輯方式去熟練操作，不是死記步驟。
 
-## 關於這份repo 忽略細節只抓大綱
-`MyQL` 
-`PHP`
-`jQuery`
-`HTML5 API`
-`RESTFUL`
-`Nodejs`
-`React`
+
+難度前三名: `MySQL` `React` `Nodejs`
