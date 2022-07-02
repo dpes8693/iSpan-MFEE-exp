@@ -1,5 +1,7 @@
 ## 網頁設計(入門) 6 節
 
+重點放在 HTML + 網頁基本知識
+
 ### 0309 2 節
 
 - VScode 移動單行的快捷鍵是?
@@ -16,17 +18,17 @@
 - `<pre>`標籤有什麼作用?
 - `<sub>`和`<sup>`標籤差異是?
 - 如何解釋`<ul>, <ol>, <li>, <dl>, <dt>, <dd>`標籤?
-- HTML 如何加入影片和圖片?
+- 在 HTML 如何加入影片和圖片? 標籤結構是？
 
 ### 0311 2 節
 
-- `<img src="../img.png">`兩個點和一個點有什麼差異?
+- `<img src="../img.png">``<img src="./img.png">`兩個點和一個點有什麼差異?
 - `<table>,<thead>,<tbody>,<tr>,<th>`標籤順序怎麼擺放?
-- HTML 表單如何實現點文字讓 radio 標籤被選擇?
+- HTML 表單如何實現點文字後 radio 標籤也一起被選擇?
 - `<optgroup>`和 `<option>`差異是?
 - 請列舉`<input>`標籤有哪些 type
-- 什麼是正規表達式 RegExr?
-- `<article> <figure> <figcaption>`標籤怎麼應用?
+- 什麼是正規表達式 (regex)?
+- `<article> <figure> <figcaption>`標籤怎麼用?
 
 ## QA
 
