@@ -1,5 +1,8 @@
 ## 網站視覺 8 節
 
+過了2個月沒在使用就會忘光光..
+
+
 ### 0328 2 節
 
 - PS
@@ -57,11 +60,9 @@
 ### 0331 2 節
 
 - PS
-
   - 重點複習
 
 - Figma 操作
-
   - style 共用樣式教學
   - 快速填圖技巧 `ctrl shift K`
   - `auto layout` 教學(RWD Frame)
@@ -71,11 +72,8 @@
   - 作業說明
 
 - 套件&網站說明
-
   -[Figma 中文化](https://figmachina.com/guide/)
-
   -[商用圖片](https://pixabay.com/)
-
   -[補充](https://docs.google.com/document/d/14UWGPl3WVJs4t1BViimRlkII1iuuktJY/edit?usp=sharing&ouid=101358720291471255239&rtpof=true&sd=true)
 
 ## QA
