@@ -1,6 +1,6 @@
 # MySQL 6 節
 
-## 0421
+## 0421 2節
 
 XAMPP 下載
 北風 northwind db
@@ -10,7 +10,7 @@ select \* from xxx where 條件;
 limit
 order by
 
-## 0422
+## 0422 2節
 
 join
 新增 修改 刪除 table
@@ -19,7 +19,7 @@ alter
 varchar char 差異 會補空白
 子查詢
 
-## 0423
+## 0423 2節
 
 正規劃
 js function constructor
