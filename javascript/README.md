@@ -70,24 +70,30 @@
   - querySelector
 - getPropertyValue
 - 為什麼 el.style.top 是空的，我在 CSS 有設定?
-- 補充日期方法 - d.toLocaleString() //2022/4/8 上午 11:17:42 - d.toLocaleDateString() //2022/4/8 -如何抓取 CSS style,inlineStyle
-  getElementsByTagName
-  getElementsByClassName
-  getElementById
-  querySelector
-  querySelectorAll
+- 補充日期方法
+- d.toLocaleString() //2022/4/8 上午 11:17:42
+- d.toLocaleDateString() //2022/4/8
+- 如何抓取 CSS style,inlineStyle
 
-==getComputedStyle(el).getPropertyValue()==
-window.getComputedStyle()
+  - getElementsByTagName
+  - getElementsByClassName
+  - getElementById
+  - querySelector
+  - querySelectorAll
 
-dom style 分兩種
-const el = document.getElementById('t')
-let cssStyle = getComputedStyle(el)
-let inStyle = el.style
-console.log(cssStyle)
-console.log(inStyle)
-console.log(cssStyle.getPropertyValue('color'))
-console.log(inStyle.getPropertyValue('color'))
+- dom style 分兩種
+  - getComputedStyle(el).getPropertyValue()
+  - window.getComputedStyle()
+
+```js
+const el = document.getElementById("t");
+let cssStyle = getComputedStyle(el);
+let inStyle = el.style;
+console.log(cssStyle);
+console.log(inStyle);
+console.log(cssStyle.getPropertyValue("color"));
+console.log(inStyle.getPropertyValue("color"));
+```
 
 ### 0411 2 節
 
@@ -118,80 +124,64 @@ console.log(inStyle.getPropertyValue('color'))
 - ES6 箭頭函數
 - 參數 引數 差異?
 - this 關鍵字(window, el-event, obj)
-  null，會傳成 object
+- null，會傳成 object
 
+```js
   var d = [];
   console.log(typeof d); // object
   console.log(Object.prototype.toString.call(d)); // [object Array]
-
-shift + delete
-log
-往下拉
-
-<!-- ### 想法 -->
-
-<!-- 魔王教你JS資料操作
-變數,陣列,物件?
-
-要如何擊敗勇者隊伍呢? 魔王軍隊陣行不好安排...
-史萊姆 哥布林 骷髏士兵 地獄犬
-
-攻擊方式: 單體/群體
-攻擊順序排序: 有/無
-
-let 先發 = '史萊姆' //單體無排序
-let 中鋒 = ['史萊姆','骷髏士兵'] //群體有排序
-let 總攻擊 = {left:'地獄犬',right:'哥布林'} //群體無排序
-let 長征隊伍 = [
-    {left:'地獄犬',right:'哥布林'},
-    {left:'史萊姆',right:'骷髏士兵'},
-    {left:'史萊姆',right:'史萊姆'}
-] //群體有排序=>群體無排序
-let 混合型 = {
-    alpha: '史萊姆',
-    beta: ['史萊姆','骷髏士兵'] ,
-    gamma: {left:'地獄犬',right:'哥布林'}
-} -->
-
-## 採坑日誌
-
-```js
-//no error msg
-0.1+0.2 != 0.3 //0.30000000000000004
-hoisting
-閉包
-拷貝 記憶體位置
-string 無法更改char str[1]='a'
-typeof
-setInterval( function()直接執行){}
-隱轉
-同步 非同步
-大數字，小數點
-this
-字母排序 [1,2,5,10].sort() //文字排序
-d.getMonth()+1 //0-11
-NaN 不能比較
-alert prompt console 順序
-
-
-不正常
-for(;;)
-for(a();false;b()) //b()不會執行
-for ( var i = 0 ; i < 3 ; i++ ) {
-	setTimeout( function() { console.log(i) } , 1000 );
-}// 3 3 3
 ```
 
-https://keep.google.com/u/0/#home
 
-##
 
-this 可以用在 html 透過 onclick(傳遞)!!
+## closure 範例
 
+```js
+        //closure
+        for (var i = 0; i < 3; i++) {
+            setTimeout(function () { console.log(i) }, 1000);
+        }
+        //進化
+        for (var i = 0; i < 3; i++) {
+            (function (j) {
+                //function scope
+                setTimeout(function () { console.log(j) })
+            }(i)) // 把i傳進去這個閉包
+        }
+        //進化
+        for (var i = 0; i < 3; i++) {
+            a(i) // 把i傳進去這個閉包
+        }
+        function a(j) {
+            setTimeout(function () { console.log(j) })
+        }
+        //問號
+        (function function1() {
+            var t = 10;
+
+            (function function2() {
+                g = 20;
+            }())
+
+        }())
+        console.log(g)
+        console.log(t) //Reference Error
+```
+
+## this
+
+[https://www.w3schools.com/js/js_this.asp](https://www.w3schools.com/js/js_this.asp)
+
+- this 居然可以用在 html 透過 onclick(傳遞)!!
+
+```js
         // 10. Alone, this refers to the global object.
         // 20. In a method, this refers to the owner object.
         // 30. In an event, this refers to the element that received the event.
+```
 
--window
--onclick 事件 => element
--obj -https://www.w3schools.com/js/js_this.asp
+先記住三個規則
+
+- window
+- onclick 事件 => element
+- obj
