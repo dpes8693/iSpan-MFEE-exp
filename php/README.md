@@ -1,49 +1,54 @@
 # PHP 12 節
 
-- PHP語法
-    - <?php ... ?>
-    - echo
-    - print_r($arr)
-    - var_dump()
-    - prinf
-    - unset($x);
-    - isset($_POST["name"])
-    - 字串可以比較(和JS不同)
-    - gettype() 取型態
-    - substr($x,'1','2'); 切
-    - str_replace('0','9',$x); 取代
-    - strpos($x,'23'); 找位置
-    - strlen() 長度
-    - iconv('UTF-8','big5',$x) 轉換編碼
-    - strtr("Hilla Warld","ia","eo") 替換
-    - strtok() split
-    - foreach($arr as $value)
-    - sort()
-    - natsort() 自然排序;數字由小到大
-    - usort()
+> 教太多了學不完XD
+
+
+- PHP 語法
+
+  - `<?php ... ?>`
+  - echo
+  - print_r($arr)
+  - var_dump()
+  - prinf
+  - unset($x);
+  - isset($\_POST["name"])
+  - 字串可以比較(和 JS 不同)
+  - gettype() 取型態
+  - substr($x,'1','2'); 切
+  - str_replace('0','9',$x); 取代
+  - strpos($x,'23'); 找位置
+  - strlen() 長度
+  - iconv('UTF-8','big5',$x) 轉換編碼
+  - strtr("Hilla Warld","ia","eo") 替換
+  - strtok() split
+  - foreach($arr as $value)
+  - sort()
+  - natsort() 自然排序;數字由小到大
+  - usort()
 
 - Type
-    - String $x = “abc”
-    - Number $x = 4
-    - TimeStamp $x = strtotime(gmdate(“Y-m-d H:i:s”));
-    - Boolean $x = true
-    - MultiLines <<<
-    - 相加用點 $a . $b    
+
+  - String $x = “abc”
+  - Number $x = 4
+  - TimeStamp $x = strtotime(gmdate(“Y-m-d H:i:s”));
+  - Boolean $x = true
+  - MultiLines <<<
+  - 相加用點 $a . $b
 
 - OOP
-    - function __construct()
-    - function __destruct()
-    - function __get($key,$value)
-    - function __set($key,$value)
-    - get_class_vars("Animal") //array
-    - unset()
-    - E_USER_ERROR
-    - php extends 
-    - interface
-    - instance
+  - function \_\_construct()
+  - function \_\_destruct()
+  - function \_\_get($key,$value)
+  - function \_\_set($key,$value)
+  - get_class_vars("Animal") //array
+  - unset()
+  - E_USER_ERROR
+  - php extends
+  - interface
+  - instance
 
 ```php
-<?php 
+<?php
 // 預設是public
 class Animal{
     public $weight;
@@ -55,37 +60,40 @@ class Animal{
 ```
 
 - 時間
-    - $d = mktime(11,59,59, 4,22,1999)
-    - date() 
+
+  - $d = mktime(11,59,59, 4,22,1999)
+  - date()
 
 - IO
-    - feof
-    - file() Array
-    - file_get_contents() string
-        - fopen()
-        - fgets()
-        - fclose()
-        - 
-        - fopen()
-        - fread() bytes
-        - fclose()
-    - file_put_contents() string
-        - fopen()
-        - fputs()
-        - fclose()
-        - 
-        - fopen()
-        - fwrite() bytes
-        - fclose()
+
+  - feof
+  - file() Array
+  - file_get_contents() string
+    - fopen()
+    - fgets()
+    - fclose()
+    -
+    - fopen()
+    - fread() bytes
+    - fclose()
+  - file_put_contents() string
+    - fopen()
+    - fputs()
+    - fclose()
+    -
+    - fopen()
+    - fwrite() bytes
+    - fclose()
 
 - 套件
-    - cURL
-    - curl_setopt
 
-- VScode輔助套件
-    - PHP Server    
+  - cURL
+  - curl_setopt
 
-## 作業: 正規化    
+- VScode 輔助套件
+  - PHP Server
+
+## 作業: 正規化
 
 [正規化](https://www.figma.com/file/PC6xkD8eRdKajHkMHJfVUf/%E8%B3%87%E6%96%99%E5%BA%AB%E8%A8%AD%E8%A8%88HW?node-id=0%3A1)
 
@@ -96,7 +104,7 @@ class Animal{
 - windows CMD 是 Big5
 
 - big5 vs UTF8
-    - 前者中文2Byte後者3Byte
+  - 前者中文 2Byte 後者 3Byte
 
 ```php
 // 怎麼寫出 錯誤發生繼續跑完的程式
@@ -124,93 +132,83 @@ class Animal{
 		return $err;
 	}
 ?>
-```    
-
+```
 
 ---
+
 未整理
 
+## 0503 2 節
 
-## 0503 2節
-php如何連線DB(語法是?)
-$link = mysqli_connect("127.0.0.1","root","",$db,$port)
-or die(mysqli_connect_error());
+- php 如何連線 DB(語法是?)
 
-方法
-mysqli_close
-mysqli_connect
-mysqli_connect_error
-mysqli_fetch_assoc
-mysqli_query
-mysqli_select_db
-mysqli_connect_errno
+  - $link = mysqli_connect("127.0.0.1","root","",$db,$port) or die(mysqli_connect_error());
 
-beginTransaction
-errorCode
-commit
-rollBack
-errorInfo
+- 方法
+  - mysqli_close
+  - mysqli_connect
+  - mysqli_connect_error
+  - mysqli_fetch_assoc
+  - mysqli_query
+  - mysqli_select_db
+  - mysqli_connect_errno
 
-new PDO
-new stdClass
-new App
-new DOMXPath
-new DOMDocument
+- beginTransaction
+- errorCode
+- commit
+- rollBack
+- errorInfo
 
-execute()
-fetch()
-fetchObject
-getMessage
+- new PDO
+- new stdClass
+- new App
+- new DOMXPath
+- new DOMDocument
 
-setAttribute
-bindParam
-prepare
-libxml_use_internal_errors
-loadHTML
+- execute()
+- fetch()
+- fetchObject
+- getMessage
 
-curl_init
-curl_setopt
-curl_exec
-curl_close
+- setAttribute
+- bindParam
+- prepare
+- libxml_use_internal_errors
+- loadHTML
 
-![](https://i.imgur.com/cpll48K.png)
-![](https://i.imgur.com/eAPzboH.png)
+- curl_init
+- curl_setopt
+- curl_exec
+- curl_close
 
-php摸熟後 select怎麼撈
+![概念圖](https://i.imgur.com/cpll48K.png)
+
+![show variables](https://i.imgur.com/eAPzboH.png)
+
+php 摸熟後 select 怎麼撈
 
 ![](https://i.imgur.com/WvH5oU2.png)
 
-
 lock in share mode
-PDO教學
-https://blog.markgdi.com/article/quick-start-operation-mysql-using-php-pdo/
 
-### 整合
-連線方式
-PDO
-JSON 串接
-json_decode
-json_encode string
+[PDO 教學](https://blog.markgdi.com/article/quick-start-operation-mysql-using-php-pdo/)
 
-vue+php+docker
+## 0504 2節
 
-https://www.796t.com/content/1546597114.html
-https://ithelp.ithome.com.tw/users/20108846/ironman/2015
+![last end](https://i.imgur.com/2skBV64.png)
 
-
-## 0504 
-![](https://i.imgur.com/2skBV64.png)
-
-----------------------------PDO
-begnTransaction()
-rollBack()
-
----https://phpdelusions.net/pdo_examples/select
 ```php=
+
+//----------------------------PDO
+//begnTransaction()
+//rollBack()
+//https://phpdelusions.net/pdo_examples/select
+
+
 query("select * from students")//沒參數 要查詢
  exec("set names utf8")//沒參數 沒查詢
 
-/有參數
+//有參數
 new PDO //生成 並連線
 prepare() //阻止SQL Injection//準備
 bindValue() //變數綁上去
@@ -244,7 +242,7 @@ str_replace("\r\n","<br/>",$contents)
 $content = <<<fileContent
 ..x.x...
 fileContent;
-                          
+
 $fileSize = file_put_contents("data2.txt",$content)//選對象 更改成
 file() //array
 feof()逐列掃描
@@ -260,13 +258,8 @@ fwrite()
 b binary啦 丟喜圖片
 ```
 
+`原來可以 img src="picture.php" `
 
-
-                          
------------- png
-                          
-原來可以 img src="picture.php" //做機器人阻擋
-學習 yield 這個特殊的return
 ```php=
 <?php
 function gen_one_to_three() {
@@ -294,6 +287,3 @@ $generator2 = gen_one();
 echo $generator2."<br>";
 
 ```
-
-下午教你怎麼把
-obj塞入 session cookie
