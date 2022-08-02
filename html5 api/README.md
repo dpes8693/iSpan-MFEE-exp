@@ -2,20 +2,20 @@
 
 ## 小畫家簽名
 
-### 0517 1節
+利用 canvas 實作
 
-### 0518 2節
+### 0517 1 節
 
-html5
-selection
+沒做筆記
 
-selectId.selectedIndex
-selectId.value
-selectId.selectedOptions //HTMLCollection
+### 0518 2 節
 
-html output tag
-
-input 屬性 pattern="正規表達式"
+- html5 selection
+  - selectId.selectedIndex
+  - selectId.value
+  - selectId.selectedOptions //HTMLCollection
+- html output tag
+- input 屬性 pattern="正規表達式"
 
 ```js
 [0-9] 範圍
@@ -27,20 +27,19 @@ $ 尾部
 
 ---
 
-### 0519 1節
+### 0519 1 節
 
-el.checkValidity()
-elid.validity //驗證屬性
-elid.validity.misMatch //true==不通過
-pattern 不輸入不會檢查|輸入一定檢查
-
-elid.setCustomValidity()
-elid.reportValidity()
+- 表單驗證
+  - el.checkValidity()
+  - elid.validity //驗證屬性
+  - elid.validity.misMatch //true==不通過
+  - pattern 不輸入不會檢查|輸入一定檢查
+  - elid.setCustomValidity()
+  - elid.reportValidity()
 
 ---
 
-剛剛講完了表單驗證
-現在講影片
+- 影片 `<video>`
 
 ```html
 <video width="320" height="240" controls class="video" crossorigin="anonymous">
@@ -58,6 +57,8 @@ elid.reportValidity()
   };
 </script>
 ```
+
+- 可以加入字幕檔案(格式如下)
 
 ```txt
 WEBVTT
@@ -81,10 +82,7 @@ icon 小組討論
 
 ---
 
-進入拖曳
-拖放 裝備 圖片
-
-## 0520 2節
+## 0520 2 節
 
 1. drag & drop
 2. localStorage / Session / cookie
@@ -92,15 +90,14 @@ icon 小組討論
 
 依據條件指定物件屬性（conditionally assign object key）
 
+```js
 let person = {
-firstName: 'Aaron',
-lastName: 'Chen',
-greet: function () {
-console.log(`${this.firstName} ${this.lastName}`);
-},
+  firstName: "Aaron",
+  lastName: "Chen",
+  greet: function () {
+    console.log(`${this.firstName} ${this.lastName}`);
+  },
 };
 
 let john = Object.create(person); // John 會繼承 person 這個物件
-
---- 
-
+```
