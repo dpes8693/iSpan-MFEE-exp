@@ -1,9 +1,9 @@
 # jQuery 12 節
 
-### 0506 2節
+### 0506 2 節
 
 `事件冒泡`
-function 觸發複習?
+function 觸發複習
 
 ```js
 function f1(str) {
@@ -37,9 +37,10 @@ var f = (function () {
 })();
 ```
 
-`event.preventDefault`
-`event.stopPropagation`
-js 限制使用者 輸入小寫
+- `event.preventDefault`
+- `event.stopPropagation`
+
+- js 限制使用者 輸入小寫
 
 ```js
     <input type="text" id="textbox" onkeypress="check(event)" placeholder="pD">
@@ -58,71 +59,77 @@ js 限制使用者 輸入小寫
     </script>
 ```
 
-原來 id 可以直接當變數用 不用宣告...
-imid.click = function(){console.log(123)}
-js 經典 事件冒泡(傳導)，阻止
+- 原來 id 可以直接當變數用 不用宣告...
+  - myId.click = function(){console.log(123)}
+- js 經典 事件冒泡(傳導)，阻止
 
-### 0509 2節
+### 0509 2 節
 
-### 0510 1節
+未做筆記
 
-### 0511 2節
+### 0510 1 節
 
-```js
+- 未做筆記
+- 出作業用 JS 寫 1A2B
 
-1A2B 寫程式的邏輯
-早上檢討作業
-jQuery filter回傳機制
+### 0511 2 節
 
-    <script>
-        $('li').filter(function (i, el) {
-            if(el.innerText === '草莓') return true;
-        }).each(function(c, d){
-            console.log(d); // 草莓
-        })
-    </script>
+- 早上檢討作業 撰寫 1A2B 寫程式的邏輯
+- jQuery filter 回傳機制
 
-$('li').eq(0) //li很多個 選第一個
+```html
+<script>
+  $("li")
+    .filter(function (i, el) {
+      if (el.innerText === "草莓") return true;
+    })
+    .each(function (c, d) {
+      console.log(d); // 草莓
+    });
+  //$('li').eq(0) //li很多個 選第一個
+</script>
 ```
 
-### 0512 2節
+### 0512 2 節
 
-昨天寫到 HSL 變換顏色的 HW
-sec = (first+180)%360
+- 昨天寫到 HSL 變換顏色的 HW
 
-學了
-toggleClass() //若多包一層 function 則失效
-addClass()
-removeClass()//預設是全部消除
+  - sec = (first+180)%360
 
-`on('事件名稱',方法)`
+- 學了 jQuery
 
-- click
-- mouseover
-  `多事件合併`
+  - toggleClass() //若多包一層 function 則失效
+  - addClass()
+  - removeClass()//預設是全部消除
 
-`分清楚四組XY座標`
+- `on('事件名稱',方法)`
 
-### 0513 2節
+  - click
+  - mouseover
+  - `多事件合併`
 
-旋轉圖片
-魯夫人名
-checkbox 全選
+- `分清楚四組XY座標`
 
-### 0516 1節
+### 0513 2 節
 
-jQuery UI
-date picker
+- jQuery 實戰
+  - 旋轉圖片
+  - 用 jQuery 將 JSON 資料 動態修改網頁資料 ex:魯夫人名
+  - 實作 checkbox 全選
 
-### 0517 1節
+### 0516 1 節
 
-jQuery UI
-color slider picker
-jQuery
-animate() //若需要控制 color 相關 CSS 需要外掛 UI
+- jQuery UI 教學
+  - date picker
 
-jQuery UI 彈出效果
-light-box 套件 圖片燈箱
+### 0517 1 節
 
-簡單帶過 HTML5 API
-API 是什麼
+- jQuery UI 教學
+  - color slider picker
+  - jQuery animate() //若需要控制 color 相關 CSS 需要外掛 UI
+
+- jQuery UI 彈出效果
+- light-box 套件 圖片燈箱
+
+- 簡單帶過 HTML5 API
+- API 是什麼
