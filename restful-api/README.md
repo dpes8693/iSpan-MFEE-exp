@@ -30,22 +30,20 @@
 ## 0524 1節
 
 - canvasElement.toDataURL() 轉成資料(圖片)字串，放入 href 可以下載
-- 滑鼠事件:
-- https://medium.com/@shizukuichi/mouse-event-%E5%B0%8F%E7%AD%86%E8%A8%98-feb5dd866b0
-
+- 滑鼠事件
+    - https://medium.com/@shizukuichi/mouse-event-%E5%B0%8F%E7%AD%86%E8%A8%98-feb5dd866b0
 - 檔案讀取
-- // _ FileReader.readAsText( Blob | File)
-- // _ FileReader.onload
-- // _ FileReader.result
-- // _ FileReader.readAsDataURL( Blob | File)
-
+    - _ FileReader.readAsText( Blob | File)
+    - _ FileReader.onload
+    - _ FileReader.result
+    - _ FileReader.readAsDataURL( Blob | File)
 - 抓取地理位置(經緯度)
 - 攝影機
 
 
 #### 其他
 
-'getBoundingClientRect'?
+`getBoundingClientRect`
 
 ## 0525 2節
 
